@@ -7,7 +7,7 @@
 
 <body>
   <!-- My name -->
-  <h1>Marianne Boerenko</h1>
+  <h1>Marianne Boerenko - Matplotlib Project</h1>
   <!--An image that will act as a stand-in for your picture with an `alt` attribute which gives a very basic 
     description of the image-->
     <img src="http://lorempixel.com/400/200" alt="Professional Photo" />
@@ -16,7 +16,7 @@
     <!--Two paragraphs that will have text describing who you are-->
     <section>
       <hr>
-      <h2>About Me</h2>
+      <h2>About This Project</h2>
       <p>
         <code>&lt;p&gt;</code>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
         incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
